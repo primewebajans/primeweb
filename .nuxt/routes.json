@@ -1,0 +1,72 @@
+[
+  {
+    "name": "biz-kimiz",
+    "path": "/biz-kimiz",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\biz-kimiz.vue",
+    "chunkName": "pages/biz-kimiz",
+    "_name": "_1ad90cb3"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_3690a605"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_b606080c"
+  },
+  {
+    "name": "blog-left-sidebar",
+    "path": "/blog-left-sidebar",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog-left-sidebar",
+    "_name": "_b34d49e4"
+  },
+  {
+    "name": "iletisim",
+    "path": "/iletisim",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\iletisim.vue",
+    "chunkName": "pages/iletisim",
+    "_name": "_02cac5c3"
+  },
+  {
+    "name": "ne-yapiyoruz",
+    "path": "/ne-yapiyoruz",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\ne-yapiyoruz.vue",
+    "chunkName": "pages/ne-yapiyoruz",
+    "_name": "_284ca82d"
+  },
+  {
+    "name": "ne-yaptik",
+    "path": "/ne-yaptik",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\ne-yaptik.vue",
+    "chunkName": "pages/ne-yaptik",
+    "_name": "_652eb8b1"
+  },
+  {
+    "name": "service-details",
+    "path": "/service-details",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\service-details.vue",
+    "chunkName": "pages/service-details",
+    "_name": "_8a4f39d2"
+  },
+  {
+    "name": "blog-detay-slug",
+    "path": "/blog-detay/:slug?",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\blog-detay\\\\_slug.vue",
+    "chunkName": "pages/blog-detay/_slug",
+    "_name": "_87b275d2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\---\\\\Desktop\\\\pringo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_33c956ff"
+  }
+]
